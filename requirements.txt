@@ -1,4 +1,5 @@
 streamlit==1.22.0
+pymysql==1.0.3
 pandas==1.5.3
 numpy==1.23.5
 mysql-connector==2.2.9
